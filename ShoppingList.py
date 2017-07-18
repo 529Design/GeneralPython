@@ -1,3 +1,8 @@
+"""
+-creates a shopping list and compares it to the stock and prices 
+    then computes the total
+-uses list and dictionaries
+"""
 shopping_list = ["banana", "orange", "apple"]
 
 stock = {
